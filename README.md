@@ -1,4 +1,4 @@
-CodeAlpha_StockPortfolioTracke
+CodeAlpha_StockPortfolioTracker
 
 The Stock Portfolio Tracker is a simple, interactive Python program that allows users to manage and calculate their investment portfolio directly from the command line.
 You can enter stock names, quantities, and instantly view total investment values.
@@ -29,4 +29,5 @@ This project uses only built-in Python libraries — no installation required:
 3. os: for clearing the console
 4. time: for delay before exit
 5. tkinter.filedialog: for save dialog box
+
 
